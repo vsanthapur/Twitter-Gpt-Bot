@@ -1,1 +1,2 @@
 # Twitter-Gpt-Bot
+This twitter bot has 3 features. Can generate and tweet 5 fun facts. Can generate and tweet an explanation of a topic based on user input. Can modify and send out a tweet based off user input. User input is also interpreted by Gpt to make it more interactive. One thing to keep in mind is models can be unpredictable and openAI makes changes to their models everyday. Therefore it might not always output the desired result. Feel free to add on to the Bot and defer any questions to vsanth@umich.edu.
